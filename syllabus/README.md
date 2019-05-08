@@ -29,7 +29,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Teaching Staff Office Hours:**
 
 * **Daniel Cer**: Wednesday at noon Pacific.
-* **Legg Yeung**: TBD
+* **Legg Yeung**: Friday at noon Pacific.
 * **Joachim Rahmfeld**: Thursday immediately after his live session
 * **Mark Butler**: Thursday immediately after his live session
 * **Sid J Reddy**: Friday immediately after his live session
