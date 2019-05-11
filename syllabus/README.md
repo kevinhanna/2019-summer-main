@@ -34,6 +34,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Mark Butler**: Thursday immediately after his live session
 * **Sid J Reddy**: Saturday immediately after his live session
 * **James Kunz**: Tuesday immediately after his live session
+* **Mike Tamir**: Tuesday immediately after his live session
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
