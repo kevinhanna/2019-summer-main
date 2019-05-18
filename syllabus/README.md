@@ -24,7 +24,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * Tuesday 6:30 - 8p Pacific (Mike Tamir and James Kunz)
 * Thursday 4 - 5:30p Pacific (Joachim Rahmfeld)
 * Thursday 6:30 - 8p Pacific (Mark Butler)
-* Saturday 10a - 11:30a Pacific (Sid J Reddy)
+* Friday 10a - 11:30a Pacific (Sid J Reddy)
 
 **Teaching Staff Office Hours:**
 
@@ -32,7 +32,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 * **Legg Yeung**: Friday at noon Pacific.
 * **Joachim Rahmfeld**: Thursday immediately after his live session
 * **Mark Butler**: Thursday immediately after his live session
-* **Sid J Reddy**: Saturday immediately after his live session
+* **Sid J Reddy**: Friday immediately after his live session
 * **James Kunz**: Tuesday immediately after his live session
 * **Mike Tamir**: Tuesday immediately after his live session
 
@@ -127,6 +127,8 @@ We'll update the table below with assignments as they become available, as well 
 
 ### Deliverables
 
+Note:  we will update this table as we release (approximately weekly) assignments.
+
 <table>
 <tr>
 <th></th><th>Topic</th><th>Release</th><th>Deadline</th>
@@ -141,6 +143,16 @@ We'll update the table below with assignments as they become available, as well 
   </ul></td>
   <td>May&nbsp;6</td>
   <td>May&nbsp;12</td>
+</tr>
+<tr>
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Information Theory and NN Basics</strong>
+  <ul>
+    <li>Information Theory
+    <li>Network basics
+  </ul></td>
+  <td>May&nbsp;18</td>
+  <td>May&nbsp;26</td>
 </tr>
 <tr>
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
