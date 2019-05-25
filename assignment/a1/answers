@@ -99,10 +99,10 @@ information_theory_c_6:
 # ------------------------------------------------------------------
 
 # Question 1.1 (/1): What are the dimensions of W?  (Hint... don't change the dimensionality of the answer.)
-neural_network_basics_a_1_1: [d0]
+neural_network_basics_a_1_1: [10]
 
 # Question 1.2 (/1): What are the dimensions of b?  (Hint... don't change the dimensionality of the answer.)
-neural_network_basics_a_1_2: [d0]
+neural_network_basics_a_1_2: [1]
 
 
 # ------------------------------------------------------------------
@@ -110,16 +110,16 @@ neural_network_basics_a_1_2: [d0]
 # ------------------------------------------------------------------
 
 # Question 1 (/1): What are the dimensions of W?
-neural_network_basics_b_1: [d0]
+neural_network_basics_b_1: [10]
 
 # Question 2 (/1): What are the dimensions of b?
-neural_network_basics_b_2: [d0]
+neural_network_basics_b_2: [1]
 
 # Question 3 (/1): What are the dimensions of x?
-neural_network_basics_b_3: [d0, d1]
+neural_network_basics_b_3: [10, 10]
 
 # Question 4 (/1): What are the dimensions of z?
-neural_network_basics_b_4: [d0]
+neural_network_basics_b_4: [10]
 
 
 # ------------------------------------------------------------------
