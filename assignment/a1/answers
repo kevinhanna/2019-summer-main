@@ -25,10 +25,10 @@ information_theory_code_1: 0.811
 # ------------------------------------------------------------------
 
 # Question 1 (/1): What is PMI(rainy, cloudy)?
-information_theory_a_1: -0.321
+information_theory_a_1: 4.3
 
 # Question 2 (/1): What is PMI(washington, post)?
-information_theory_a_2: -7.229
+information_theory_a_2: 10.7
 
 
 # ------------------------------------------------------------------
