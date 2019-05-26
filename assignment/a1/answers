@@ -116,10 +116,10 @@ neural_network_basics_b_1: [10]
 neural_network_basics_b_2: [1]
 
 # Question 3 (/1): What are the dimensions of x?
-neural_network_basics_b_3: [10, 10]
+neural_network_basics_b_3: [30, 10]
 
 # Question 4 (/1): What are the dimensions of z?
-neural_network_basics_b_4: [10]
+neural_network_basics_b_4: [30]
 
 
 # ------------------------------------------------------------------
@@ -127,10 +127,10 @@ neural_network_basics_b_4: [10]
 # ------------------------------------------------------------------
 
 # Question 1 (/1): What is the probability of the positive class for [0, 0, 0, 0, 5]?
-neural_network_basics_c_1: 0.0
+neural_network_basics_c_1: 0.5
 
 # Question 2 (/1): What's the cross entropy loss if the second example is positive?
-neural_network_basics_c_2: 0
+neural_network_basics_c_2: 1.0
 
 
 # ------------------------------------------------------------------
